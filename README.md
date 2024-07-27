@@ -1,6 +1,6 @@
 # 📊 Matlab CGPA Calculator: Numerical Analysis of Student GPA 📈
 
-![Project Sticker](https://img.shields.io/badge/Matlab-Project-blue?style=flat-square&logo=matlab) ![License Sticker](https://img.shields.io/badge/License-MIT-green?style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/yourusername/Matlab-CGPA-Calculator?style=social)
+![Project Sticker](https://img.shields.io/badge/Matlab-Project-blue?style=flat-square&logo=matlab)  ![GitHub Stars](https://img.shields.io/github/stars/yourusername/Matlab-CGPA-Calculator?style=social)
 
 ## 🌟 Project Overview
 
